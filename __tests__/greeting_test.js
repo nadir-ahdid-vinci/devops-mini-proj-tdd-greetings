@@ -1,6 +1,7 @@
 const greet = require('../greeting');
 
+// eslint-disable-next-line no-undef
 test('greet', () => {
-  expect(greet('nadir')).toBe('Hello, nadir');
-});
-
+  // eslint-disable-next-line no-undef
+  expect(greet('nadir')).toBe('Hello, nadir')
+})
