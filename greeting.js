@@ -1,7 +1,6 @@
 function greet (name) {
-  return 'Hello, ' + name;
+  return 'Hello, ' + name
 }
 
-
-module.exports =  greet;
-
+// "'tlo)-"'o)à-"'o)à-o"')ào")'àot'o"t"
+module.exports = greet;
