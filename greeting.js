@@ -1,5 +1,5 @@
 function greet (name){
-    if(name === null) {return false}
+    return "Hello, " + name;
 }
 
 export default {greet}

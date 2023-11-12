@@ -3,5 +3,5 @@ import {expect, test} from '@jest/globals';
 
 
 test('greet', () => {
-    expect(greet("nadir")).toBe(true);
+    expect(greet("nadir")).toBe("nadir");
 });
